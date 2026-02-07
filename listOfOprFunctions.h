@@ -1,0 +1,5 @@
+a(opr_00_naive),
+a(opr_00b_naiveRecursive),
+a(opr_01_lookup1by1),
+a(opr_02_lookup2by2),
+a(opr_03_toBctNaive),
