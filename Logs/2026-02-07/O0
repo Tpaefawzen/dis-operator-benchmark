@@ -1,0 +1,18 @@
+opr_00_naive: 100 tests, 74039 ns
+opr_00_naive: 10000 tests, 9494577 ns
+opr_00_naive: 1000000 tests, 473740884 ns
+opr_00_naive: 100000000 tests, 46579593506 ns
+opr_00b_naiveRecursive: 100 tests, 42269 ns
+opr_00b_naiveRecursive: 10000 tests, 4149077 ns
+opr_00b_naiveRecursive: 1000000 tests, 413530269 ns
+opr_00b_naiveRecursive: 100000000 tests, 41349814047 ns
+opr_01_lookup1by1: 100 tests, 42000 ns
+opr_01_lookup1by1: 10000 tests, 4123269 ns
+opr_01_lookup1by1: 1000000 tests, 411902346 ns
+opr_01_lookup1by1: 100000000 tests, 41183931009 ns                                              opr_02_lookup2by2: 100 tests, 29923 ns
+opr_02_lookup2by2: 10000 tests, 2950577 ns
+opr_02_lookup2by2: 1000000 tests, 294530961 ns
+opr_02_lookup2by2: 100000000 tests, 29586956017 ns
+opr_03_toBctNaive: 100 tests, 56500 ns                                                          opr_03_toBctNaive: 10000 tests, 5570307 ns
+opr_03_toBctNaive: 1000000 tests, 552640422 ns
+opr_03_toBctNaive: 100000000 tests, 54862221153 ns
